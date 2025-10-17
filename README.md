@@ -23,4 +23,4 @@ The project is designed as a practice to strengthen skills in:
 
 ---
 
-[!Calculator image](image/image.png)
+![Calculator image](image/image.png)
