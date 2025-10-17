@@ -1,0 +1,24 @@
+.vbox {
+    -fx-background-color: rgba(159, 58, 58, 0.32);
+    -fx-padding: 10;
+    -fx-max-width: 100px;
+}
+
+
+
+
+.vbox  .button, .hbox  .button {
+    -fx-background-color: #363e37;
+    -fx-text-fill: #976666;
+    -fx-font-size: 14px;
+    -fx-pref-width: 60;
+    -fx-pref-height: 40;
+}
+
+.vbox  .button:hover, .hbox  .button:hover {
+    -fx-background-color: rgba(145, 31, 31, 0.28);
+}
+.hbox{
+    -fx-alignment: Center;
+}
+
